@@ -3,7 +3,6 @@ pandas
 statsmodels
 matplotlib
 ipywidgets
-nbinteract
 fbprophet
 warnings
 seaborn

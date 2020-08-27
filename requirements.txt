@@ -4,7 +4,6 @@ statsmodels
 matplotlib
 ipywidgets
 fbprophet
-warnings
 seaborn
 itertools
 datetime
